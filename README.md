@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development, Kotlin, Java, Jetpack Libraries.**
 
-- 👨‍💻 This my web site. [http://www.megapps.com.tr/](http://www.megapps.com.tr/)
+- 👨‍💻 This my web site. [https://www.megapps.com.tr/](http://www.megapps.com.tr/)
 
 - 📝 I regularly write articles on [http://www.megapps.com.tr/?page_id=138](http://www.megapps.com.tr/?page_id=138)
 
