@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etokoc&label=Profile%20views&color=0e75b6&style=flat" alt="etokoc" /> </p>
 
-- 🔭 I’m currently working on [Coin Moino](https://play.google.com/store/apps/details?id=com.metoer.ceptedovizborsa&hl=tr&gl=US)
+- 🔭 I’m currently developing is [Coin Moino](https://play.google.com/store/apps/details?id=com.metoer.ceptedovizborsa&hl=tr&gl=US)
 
-- 🌱 I’m currently learning **Android Development, Kotlin, Java, Jetpack Libraries.**
+- 🌱 I’m currently working on developing these topics. **Android Development, Kotlin, Java, Jetpack Libraries.**
 
 - 👨‍💻 This my web site. [https://www.megapps.com.tr/](http://www.megapps.com.tr/)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **etoertugrul.koc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mrFxN0BjxJ475tnsgpcH70Wmkdabx0UK/view?usp=sharing](https://drive.google.com/file/d/1mrFxN0BjxJ475tnsgpcH70Wmkdabx0UK/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qtGWOrszMUISrNiiaPlhmBqrQTByh9Q2/view?usp=sharing](https://drive.google.com/file/d/1qtGWOrszMUISrNiiaPlhmBqrQTByh9Q2/view?usp=sharing)
 
 - ⚡ Fun fact **I get excited as I learn.**
 
