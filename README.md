@@ -6,7 +6,6 @@
        style="border-radius: 15px; display: block;" />
 </div>
 <h1 align="center">Hi 👋, I'm Ertugrul KOC</h1>
-<h1 align="center">Hi 👋, I'm Ertugrul KOC</h1>
 <h3 align="center">An Android Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etokoc&label=Profile%20views&color=0e75b6&style=flat" alt="etokoc" /> </p>
