@@ -1,12 +1,20 @@
 <div align="center">
-  <img width="120" 
-       height="210" 
-       alt="image" 
-       src="https://github.com/user-attachments/assets/bad759f6-a774-4d64-aca6-b2fd928a9c23" 
-       style="border-radius: 15px; display: block;" />
+  <table>
+    <tr>
+      <td>
+        <img width="220" 
+             height="410" 
+             alt="image" 
+             src="https://github.com/user-attachments/assets/bad759f6-a774-4d64-aca6-b2fd928a9c23" 
+             style="border-radius: 15px;" />
+      </td>
+      <td style="padding-left: 20px; vertical-align: middle;">
+        <h1>Hi 👋, I'm Ertugrul KOC</h1>
+      </td>
+    </tr>
+  </table>
 </div>
-<h1 align="center">Hi 👋, I'm Ertugrul KOC</h1>
-<h3 align="center">An Android Developer from Turkey</h3>
+<h3 align="center">An <b>Android</b> Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etokoc&label=Profile%20views&color=0e75b6&style=flat" alt="etokoc" /> </p>
 
