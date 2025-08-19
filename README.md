@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etokoc&label=Profile%20views&color=0e75b6&style=flat" alt="etokoc" /> </p>
 
-- 🔭 I’m currently developing is [Coin Moino](https://www.megapps.com.tr/)
+- 🔭 I’m currently developing is Mobile Apps (Native and Cross) 📱📱🚀🚀🚀📱📱
 
 - 🌱 I’m currently working on developing these topics. **Android Development, Kotlin, Java, Jetpack Libraries.**
 
