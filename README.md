@@ -14,7 +14,7 @@
     </tr>
   </table>
 </div>
-<h3 align="center">An <b>Android</b> Developer from Turkey</h3>
+<h3 align="center">An Android Developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=etokoc&label=Profile%20views&color=0e75b6&style=flat" alt="etokoc" /> </p>
 
