@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently working on developing these topics. **Android Development, Kotlin, Java, Jetpack Libraries.**
 
-- 👨‍💻 This my web site. [https://www.megapps.com.tr/](http://www.megapps.com.tr/)
-
-- 📝 I regularly write articles on [http://www.megapps.com.tr/?page_id=138](http://www.megapps.com.tr/?page_id=138)
-
-- 💬 Ask me about **Android Development, Kotlin, Java**
+- 💬 Ask me about **Android Development, Kotlin, Java, React Native**
 
 - 📫 How to reach me **etoertugrul.koc@gmail.com**
 
